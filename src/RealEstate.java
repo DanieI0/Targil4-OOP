@@ -285,7 +285,6 @@ public class RealEstate {
     }
 
     User login() {
-        addUser("test", "test123%", "0531231231", "Normal");
         String username;
         String password;
         boolean usernameExists = false;
